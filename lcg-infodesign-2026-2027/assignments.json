@@ -3,11 +3,11 @@
   "assignments": [
     {
       "slug": "2026-01",
-      "name": "Disegnare in p5.js",
+      "name": "Un disegno in p5.js",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
-      "description": "Ottieni un risultato visivo disegnandolo solo con p5.js (senza caricare svg o bitmap creati con altri software).\n\nObiettivi didattici\nIA:\n- Usare almeno una variabile\n- Usare almeno un loop for e un blocco if\nDD:\n- Progetta elementi visivi sfruttando le primitive di p5.js",
+      "description": "Ottieni un risultato visivo disegnandolo solo con p5.js (senza caricare svg o bitmap creati con altri software).\n\n#Obiettivi didattici\n\n##IA:\n- Usare almeno una variabile\n- Usare almeno un loop for e un blocco if\n\n##DD:\n- Progetta elementi visivi sfruttando le primitive di p5.js",
       "due": "2026-10-13T21:59:00Z",
       "due_meta": {
         "input": "2026-10-13T23:59:00",
