@@ -18,7 +18,7 @@
     },
     {
       "slug": "2026-00",
-      "name": "La mia prima consegna",
+      "name": "0 - La mia prima consegna",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
