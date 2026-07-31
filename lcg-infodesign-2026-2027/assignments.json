@@ -15,6 +15,14 @@
         "offset": "+02:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "2026-00",
+      "name": "La mia prima consegna",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "description": "Crea uno sketch p5js, disegna un pallino colorato e attiva la GitHub page"
     }
   ]
 }
