@@ -7,6 +7,11 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
+      "template": {
+        "owner": "lcg-infodesign",
+        "repo": "P5-empty-project",
+        "branch": "main"
+      },
       "description": "Crea uno sketch p5js, disegna un pallino colorato e attiva la GitHub page"
     },
     {
