@@ -32,6 +32,9 @@
         "zone": "Europe/Rome",
         "offset": "+02:00",
         "source": "auto-detected"
+      },
+      "pages": {
+        "source": "branch"
       }
     },
     {
