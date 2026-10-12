@@ -63,8 +63,17 @@
         "offset": "+02:00",
         "source": "auto-detected"
       },
+      "repo_visibility": "public",
       "grading": {
         "mode": "off"
+      },
+      "repo_features": {
+        "issues": false,
+        "wiki": false,
+        "projects": false
+      },
+      "pages": {
+        "source": "branch"
       }
     }
   ]
