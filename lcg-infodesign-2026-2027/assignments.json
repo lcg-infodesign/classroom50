@@ -33,6 +33,39 @@
         "offset": "+02:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "02",
+      "name": "2 - Come un linguaggio",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "lcg-infodesign",
+        "repo": "P5-empty-project",
+        "branch": "main"
+      },
+      "description": "Crea una funzione che generi, a partire dai dati a te assegnati, una famiglia di glifi chiaramente riconoscibili come parte dello stesso linguaggio visivo",
+      "due": "2026-10-19T21:59:00Z",
+      "due_meta": {
+        "input": "2026-10-19T23:59:00",
+        "zone": "Europe/Rome",
+        "offset": "+02:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-13T07:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-13T09:00:00",
+        "zone": "Europe/Rome",
+        "offset": "+02:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
