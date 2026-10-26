@@ -112,6 +112,23 @@
       "pages": {
         "source": "branch"
       }
+    },
+    {
+      "slug": "group-work",
+      "name": "Group work",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "max_group_size": 10,
+      "team_formation": "teacher",
+      "repo_visibility": "public",
+      "grading": {
+        "mode": "off"
+      },
+      "pages": {
+        "source": "branch"
+      }
     }
   ]
 }
