@@ -1,0 +1,16 @@
+{
+  "schema": "classroom50/teams/v1",
+  "assignments": {
+    "group-work": {
+      "teams": [
+        {
+          "slug": "classroom50-group-7272e0d0a2abd255-1",
+          "id": 20322708,
+          "name": "01",
+          "members": [],
+          "formation": "teacher"
+        }
+      ]
+    }
+  }
+}
