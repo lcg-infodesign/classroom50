@@ -121,7 +121,9 @@
           "slug": "classroom50-group-7272e0d0a2abd255-9",
           "id": 20323043,
           "name": "09",
-          "members": [],
+          "members": [
+            "giuliastucchi"
+          ],
           "formation": "teacher"
         }
       ]
