@@ -102,6 +102,13 @@
             "renssheet"
           ],
           "formation": "teacher"
+        },
+        {
+          "slug": "classroom50-group-7272e0d0a2abd255-8",
+          "id": 20323009,
+          "name": "08",
+          "members": [],
+          "formation": "teacher"
         }
       ]
     }
