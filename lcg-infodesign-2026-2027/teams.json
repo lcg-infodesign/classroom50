@@ -79,7 +79,9 @@
           "slug": "classroom50-group-7272e0d0a2abd255-6",
           "id": 20322866,
           "name": "06",
-          "members": [],
+          "members": [
+            "beatricemuratori6-eng"
+          ],
           "formation": "teacher"
         }
       ]
