@@ -65,7 +65,9 @@
           "slug": "classroom50-group-7272e0d0a2abd255-5",
           "id": 20322805,
           "name": "05",
-          "members": [],
+          "members": [
+            "auroraabela"
+          ],
           "formation": "teacher"
         }
       ]
