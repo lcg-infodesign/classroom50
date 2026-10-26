@@ -134,7 +134,9 @@
           "slug": "classroom50-group-7272e0d0a2abd255-10",
           "id": 20323062,
           "name": "10",
-          "members": [],
+          "members": [
+            "beatricebiella"
+          ],
           "formation": "teacher"
         }
       ]
