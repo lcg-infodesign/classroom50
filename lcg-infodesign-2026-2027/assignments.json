@@ -129,6 +129,32 @@
       "pages": {
         "source": "branch"
       }
+    },
+    {
+      "slug": "04",
+      "name": "L’insieme, il dettaglio",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "lcg-infodesign",
+        "repo": "P5-empty-project",
+        "branch": "main"
+      },
+      "description": "Crea un progetto che a partire da un dataset generi una visione di dettaglio per ogni riga del dataset. \nIl progetto deve funzionare per ogni riga del dataset.\nIl progetto deve permettere ai visitatori di decodificare la visualizzazione (titolo, legenda).\n\nOgni pagina di dettaglio deve avere una URL univoca.\n\n**IA:**\n\n* Caricare i dati, filtrarli utilizzando un parametro della pagina\n\n**DD:**\n\n* Crea un glifo che possa rappresentare più parametri per una unità di analisi e che sia comparabile\n* Stabilisci un chiaro processo di codifica/decodifica dei dati rappresentati",
+      "due": "2026-11-16T22:59:00Z",
+      "due_meta": {
+        "input": "2026-11-16T23:59:00",
+        "zone": "Europe/Rome",
+        "offset": "+01:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
