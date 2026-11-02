@@ -132,7 +132,7 @@
     },
     {
       "slug": "04",
-      "name": "L’insieme, il dettaglio",
+      "name": "04 - L’insieme, il dettaglio",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
@@ -152,8 +152,15 @@
         "offset": "+01:00",
         "source": "auto-detected"
       },
+      "repo_visibility": "public",
       "grading": {
         "mode": "off"
+      },
+      "repo_features": {
+        "wiki": false
+      },
+      "pages": {
+        "source": "branch"
       }
     }
   ]
