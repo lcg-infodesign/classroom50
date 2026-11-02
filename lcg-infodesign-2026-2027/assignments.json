@@ -94,9 +94,9 @@
         "branch": "main"
       },
       "description": "Crea un progetto che a partire da un dataset generi una visione di insieme in un unico sketch composta da un glifo per ogni data point\nIl progetto deve permettere ai visitatori di decodificare la visualizzazione (titolo, legenda)\nIl progetto deve avere una semplice interazione (rollover/click)",
-      "due": "2026-11-02T22:59:00Z",
+      "due": "2026-11-09T22:59:00Z",
       "due_meta": {
-        "input": "2026-11-02T23:59:00",
+        "input": "2026-11-09T23:59:00",
         "zone": "Europe/Rome",
         "offset": "+01:00",
         "source": "auto-detected"
